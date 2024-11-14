@@ -1,2 +1,2 @@
-# ncore.github.io
+# ncore 
 Welcome to my space
